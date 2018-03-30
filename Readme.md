@@ -2,7 +2,7 @@
 
 * Студент: [Boga Obrigen](https://up.htmlacademy.ru/htmlcss/20/user/365311).
 * Наставник: [Gospodin Malenkov].
-
+Let's go bitches=*
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
