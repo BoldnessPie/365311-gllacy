@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
-* Студент: [Оля Конопленко](https://up.htmlacademy.ru/htmlcss/20/user/365311).
-* Наставник: [Павел Тиунов].
+* Студент: [Boga Obrigen](https://up.htmlacademy.ru/htmlcss/20/user/365311).
+* Наставник: [Gospodin Malenkov].
 
 ---
 
